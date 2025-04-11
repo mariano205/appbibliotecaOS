@@ -1,0 +1,32 @@
+# created by virtualenv automatically
+*
+
+# Entorno virtual
+venv/
+env/
+
+# Archivos compilados de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de log y bases de datos temporales
+*.log
+*.sqlite3
+
+# Configuración de entorno
+.env
+
+# Configuración de IDEs
+.vscode/
+.idea/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos temporales o backups
+*.bak
+*.swp
+
